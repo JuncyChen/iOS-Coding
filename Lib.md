@@ -89,6 +89,19 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [placeholder_TextView](http://code.cocoachina.com/view/129099) - 带有placeholder的TextView：带有提示信息的textview，使用懒加载的思想，支持扩展、自定义，类似许多APP内部的意见反馈页面 。
 * [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - M80AttributedLabel实现文字与表情的混排。一般使用气泡作为背景。
 
+####Switch
+* [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
+
+####Label
+* [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示
+
+####Search
+* [PYSearch](https://github.com/iphone5solo/PYSearch) 非常赞 An elegant search controller for iOS.
+* [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
+
+####DisplayViewController
+* [YZDisplayViewController](https://github.com/iThinkerYZ/YZDisplayViewController) 快速集成App中顶部标题滚动条
+
 ####图表
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
 * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下。
@@ -193,5 +206,49 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WSProgressHUD](https://github.com/devSC/WSProgressHUD) - 一个小巧精致的HUD,支持添加到自定义View上, 还有更多小细节.。
 * [PreLoader](https://github.com/liuzhiyi1992/PreLoader) - 一个很有意思的HUD loading ，通过运动污点和固定污点之间的粘黏动画吸引用户的眼球跟踪，能有效分散等待注意力。[PreLoader的实现讲解](http://www.cocoachina.com/ios/20160427/16029.html)
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
+
+####对话框
+* [LCActionSheet](https://github.com/iTofu/LCActionSheet) 一款简约而不失强大的 ActionSheet，微信和微博都采取了极其类似的样式。
+* [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
+* [IOS7AlertView](https://github.com/wimagguc/ios-custom-alertview) - IOS7AlertView的对话框。
+* [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - 动画效果不错，最多star，但不支持arm64。
+* [DQAlertView](https://github.com/dinhquan/DQAlertView) - 扁平化的样式不错。
+* [HHAlertView](https://github.com/mrchenhao/HHAlertView) - 一个简易的alertview  有三种样式，有成功，失败，和警告三种样式，支持Delegate和block两种回调。
+* [MJPopupViewController](https://github.com/martinjuhasz/MJPopupViewController) - 实现弹出视图的各种弹出和消失效果，包括淡入淡出（fade in，fade out），从屏幕上方飞进，下方飞出，从屏幕左方飞进，右方飞出等等效果，弹窗。
+* [MMPopupView](https://github.com/adad184/MMPopupView) - 弹出框的基类组件（弹窗）。
+* [Menu](https://github.com/fengchuanxiang/Menu) - 项目中可能会用到的常用菜单，以后有时间会继续补充，弹窗。
+* [EasyTipView](https://github.com/teodorpatras/EasyTipView) - 弹出提示框类及演示示例。同样地，API 简单、易用。好“轮子”，弹窗。  
+* [kxmenu](https://github.com/kolyvan/kxmenu) - kxmenu弹出菜单，点击视图上任意位置的按钮，会弹出一个菜单，并且有个小箭头指向点击的按钮，类似气泡视图。弹出的菜单位置会根据按钮的位置来进行调整。
+* [QBPopupMenu](https://github.com/questbeat/QBPopupMenu) - QBPopupMenu弹出菜单，实现类似 UIMenuItem 的弹出菜单按钮。点击按钮，会弹出一个菜单，上面可以排列多个按钮。纯代码实现，不需要任何图片。
+* [STModalDemo](https://github.com/zhenlintie/STModalDemo) - 弹出视图（通知，提示，选择，窗口）。
+* [TAOverlay](https://github.com/TaimurAyaz/TAOverlay) - TAOverlay可通过叠加层展示有用的信息，可自定义文本和背景色，添加阴影和模糊效果，以及更改字体大小或者用自定义图片替换页面上的icon。
+* [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--模糊效果 里面已经收藏。
+* [ActionSheetPicker-3.0](http://code.cocoachina.com/detail/232178) - 该项目是此前热门项目ActionSheetPicker的新版本，快速复制了iOS 8上的下拉 UIPickerView/ActionSheet功能。
+* [MJAlertView](https://github.com/mayuur/MJAlertView) - 3D效果转场效果警示图--MJAlertView。
+* [PSTAlertController](https://github.com/steipete/PSTAlertController) - 兼容 iOS7的 XXAlertController，接口跟UIAlertController 一模一样，做到高低版本通用。
+* [PCLBlurEffectAlert.swfit](https://github.com/hryk224/PCLBlurEffectAlert) - 细节定制较丰富的弹出警报窗口组件。
+* [GSAlert.swfit](https://github.com/wxxsw/GSAlert) - 苹果在iOS8推出了全新的UIAlertController，旧的UIAlertView和UIActionSheet渐渐被废弃，但如果你仍然支持iOS7系统，你将不得不写两套代码。GSAlert解决了这个问题。
+* [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) - SweetAlert-iOS 带动画效果弹窗对话框封装类。
+* [CCActionSheet](https://github.com/maxmoo/CCActionSheet) - CCActionSheet：仿照微信朋友圈自定义actionsheet，一行代码即可使用。
+* [CustomPopOverView](https://github.com/maltsugar/CustomPopOverView) - 自定义弹出视图，内容支持传一组菜单标题，也支持自定义view，或者自定义viewController，支持任意按钮触发，会显示在按钮底部，也支持切换按钮的对齐方式：左对齐、居中、右对齐。
+* [TOActionSheet](https://github.com/TimOliver/TOActionSheet) 是一个 iOS UI 控件，提供一个模态提示控制，类似于 UIActionSheet。不同于 UIActionSheet 的是，它可以深度重设主题，通过对每个按钮使用块来避免委托模式
+
+####pop
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
+* [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
+* [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
+* [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
+* [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) 弹出-选择-展示框
+
+####导航栏
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 一个可以上拉隐藏导航栏和下拉显示导航栏的框架
+* [JTNavigationController](https://github.com/JNTian/JTNavigationController) 一个拥有更平滑的navigationBar切换动画的NavigationController
+* [NavigationController](https://github.com/Roxasora/RxWebViewController) 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) he appearance of UINavigationBar dynamically。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
+* [MTStatusBarOverlay](https://github.com/myell0w/MTStatusBarOverlay) MTStatusBarOverlay 是一个定制的 iOS 状态栏，用于覆盖系统默认的状态栏，类似 Reeder, Evernote and Google Mobile App。支持两种点击动作：1. 当用户点击状态栏时，状态栏会收缩，仅仅遮盖住状态栏右方的电池图标；2. 当用户点击状态栏时，一个有详细信息的视图会从系统状态栏中下拉出现。
+
+####设置
+* [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) InAppSettingsKit 是一款功能强大的ios设置组件，可以满足各种各样的app设置需求。
+* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) A UISwitch that infects its superview with its tint color.
 
 
