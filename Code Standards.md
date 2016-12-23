@@ -4,6 +4,8 @@ Objective-C编码规范，内容来自苹果、谷歌的文档翻译
 *	[Apple Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
 *	[Google Objective-C Style Guide](https://google-styleguide.googlecode.com/svn/trunk/objcguide.xml?showone=Line_Length#Line_Length)
 
+* 转载至:[BABaseProject](https://github.com/boai/BABaseProject)
+
 ##代码格式
 ###使用空格而不是制表符Tab
 
