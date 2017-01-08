@@ -16,3 +16,4 @@
 * [bang's](http://blog.cnbang.net) --- bang，88年生于广东陆丰，毕业于华南师范大学，程序员，喜欢做东西。
 * [刘坤的技术博客](https://blog.cnbluebox.com) --- 刘坤，一名来自中国的 IOS 开发者，现就职于杭州阿里，花名‘念纪’，沉淀技术，寻求创意
 * [Sindri](http://sindrilin.com) --- Personal blog by Sindri Lin with Jekyll
+* [numbbbbb](http://numbbbbb.com) --- 梁杰
