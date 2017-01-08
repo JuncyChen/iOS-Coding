@@ -7,3 +7,4 @@ iOS开发的一些资料
 * [第三方库整理](Lib.md)
 * [iOS完整项目](project.md)
 * [正则表达式简单说明](NormalRegex.md)
+* [设计模式](iOS-Design-Patterns.md)
