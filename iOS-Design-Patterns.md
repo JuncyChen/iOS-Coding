@@ -1,5 +1,5 @@
 # Trip-to-IOS-Design-Patterns
-IOS 设计模式相关资料整理
+iOS 设计模式相关资料整理
 
 #### [史上最全设计模式导学目录（完整版)](http://blog.csdn.net/lovelion/article/details/17517213) 
 > 强烈推荐，推荐指数五颗星，刘伟老师力作，讲的非常好，通俗易懂，而且举例的应用场景也非常恰当，遗憾的是样例代码是 Java 写的，不过模式是通用的。
