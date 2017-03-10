@@ -8,5 +8,5 @@ iOS开发的一些资料
 * [iOS完整项目](project.md)
 * [正则表达式简单说明](NormalRegex.md)
 * [设计模式](iOS-Design-Patterns.md)
-* [Swift Standard](Swift Standard.md)
-* 
+* [Swift编码规范](Swift Standard.md)
+* [iOS转场动画](TransitionAnimation.md)
