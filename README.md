@@ -10,3 +10,4 @@ iOS开发的一些资料
 * [设计模式](iOS-Design-Patterns.md)
 * [Swift编码规范](Swift Standard.md)
 * [iOS转场动画](TransitionAnimation.md)
+* [一些神奇的注释](comment.md)
